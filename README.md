@@ -1,1 +1,1 @@
-We will make our dataset publicly available here soon, after the paper is accepted.
+The dataset will be available here soon, after the paper is accepted.
